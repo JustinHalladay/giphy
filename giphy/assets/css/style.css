@@ -1,0 +1,17 @@
+#submitbttn {
+background-color: #008CBA;
+}
+label {
+    font-family: fantasy;
+    font-size: 24px;
+}
+#topic_list{
+	margin: 10px 0;
+}
+#topic_list button {
+	margin: 0 2px;
+	background-color: #008CBA;
+}
+.thumbnail{
+	float: left;
+}
